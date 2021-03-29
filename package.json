@@ -15,8 +15,12 @@
   },
   "dependencies": {
     "gatsby": "^3.1.1",
+    "gatsby-plugin-sass": "^4.1.0",
+    "gatsby-source-filesystem": "^3.1.0",
+    "gatsby-transformer-excel": "^3.1.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "sass": "^1.32.8"
   },
   "devDependencies": {
     "prettier": "2.2.1"
